@@ -11,3 +11,4 @@ chmod +x ~/kits/docker-compose
 ### Install Jenkins  
 docker pull jenkins/jenkins  
 docker info |grep -i root  
+sudo du -sh /var/lib/docker/  
